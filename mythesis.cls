@@ -187,7 +187,6 @@
   {\large\textssc\@author\\[12pt]}
   \bigskip
 
-  \@month\ \@year\\[12pt]
 
   \textit{Major Professor}\\
   {\textsc\@majorprofessor}\\[12pt]
@@ -197,6 +196,8 @@
   {\textsc\@committeeC}\\[12pt]
   \textit{Department Administrator}\\
   {\textsc\@admin}\\[12pt]
+  
+    \@month\ \@year\\[12pt]
 
 \end{center}
 \textspacing
